@@ -1,9 +1,9 @@
-#Python using Pandas and Numpy for Big Data
+# Python using Pandas and Numpy for Big Data
 
 Se instalan las librerias de Pandas, Numpy para trabajar con Datos Masivos.
 
-##Lenguaje de Programación
+## Lenguaje de Programación
 - Python
 
-#Autor
+# Autor
 Derechos Reservados © Rosselly Villanueva
